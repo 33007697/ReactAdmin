@@ -1,0 +1,16 @@
+.sider-header{
+    height: 80px;
+    background-color: rgba(0, 0, 0,.5);
+    display: flex;
+    align-items: center;
+}
+.sider-header img{
+    width: 40px;
+    height: 40px;
+    margin: 0 15px;
+}
+.sider-header h1{
+    color: white;
+    margin-bottom: 0;
+    font-size: 20px;
+}
